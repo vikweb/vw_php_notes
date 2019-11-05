@@ -1,0 +1,16 @@
+Описание регистарции DKIM/SPF/DMARC от разных сервисов
+https://help.mail.ru/postmaster/mailing_rules
+https://yandex.ru/support/mail/web/spam/honest-mailers.html
+https://support.google.com/mail/answer/81126?hl=ru
+https://www.unisender.com/ru/blog/sovety/vashi-pisma-popadayut-v-spam-chto-delat
+генерация своего DKIM/SPF/DMARC и их настройка
+https://habr.com/ru/post/322616/
+https://yandex.ru/support/pdd/set-mail/dkim.html
+Подробней по каждому из них с подробностями можно прочитать здесь:
+https://emailmatrix.ru/blog/inbox-part-2-dkim/
+https://emailmatrix.ru/blog/inbox-part-1-spf/
+https://emailmatrix.ru/blog/what-is-dmarc/
+Варианты интеграции
+http://qaru.site/questions/243084/setting-up-domainkeysdkim-in-a-php-based-smtp-client
+
+
