@@ -12,5 +12,8 @@ https://emailmatrix.ru/blog/inbox-part-1-spf/
 https://emailmatrix.ru/blog/what-is-dmarc/
 Варианты интеграции
 http://qaru.site/questions/243084/setting-up-domainkeysdkim-in-a-php-based-smtp-client
-
-
+https://github.com/louisameline/php-mail-signature
+http://www.ra726.net/2010/07/20/sending-email-to-gmail-from-php-without-being-marked-as-spam/
+https://code.google.com/archive/p/php-mail-domain-signer/
+Генерация через PhpMailer - примеры
+https://github.com/PHPMailer/PHPMailer/blob/master/test/PHPMailerTest.php
